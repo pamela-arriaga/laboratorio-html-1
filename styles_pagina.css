@@ -1,0 +1,29 @@
+body {
+    font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
+    background-color: beige;
+}
+
+/* Fondo azul solo para el título */
+.titulo {
+    background-color: #d2b48c;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Fondo de la pagina*/
+.seccion {
+    background-color: #d2b48c;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.contenedor img {
+    width: 120px;
+    height: 120px;
+}
+
+.imagen-principal {
+    display: block;
+    margin: auto;
+}
